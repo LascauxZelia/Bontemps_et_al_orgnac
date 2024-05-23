@@ -13,15 +13,14 @@ Zélia BONTEMPS(1), Jeanne DORE(1), Eric MAHIEU(2), Marine LEPRETRE(2), Odette B
 [DOI]()
 
 ## Abstract
-Background  
+#### Background  
 Many caves worldwide are open to the public and tourism-related anthropization can alter the cave microbiome, but the spatial distribution of these effects is poorly understood. Here, we tested the hypothesis that cave microbial diversity would change according to anthropization features. To this end, we selected a double anthropization gradient within a French cave (Aven d’Orgnac), by considering a longitudinal (tourist, trek and speleologist zones) and a transversal gradient (central and lateral positions with regard to the path). The microbial community on cave surfaces was assessed by Illumina MiSeq sequencing.   
-Results  
+#### Results  
 Results showed that microbial biodiversity was lower in the tourist zone than in less anthropized zones, both for bacteria and microeukaryotes, but the difference between central and lateral positions was not significant. Microbial community structure was statistically different in the tourist zone than in the other zones, and the difference between central and lateral locations was also significant but of less magnitude. In parallel, particularities in community composition were evidenced, as Alphaproteobacteria and Bacteroidia classes were favored and Sordariomycetes class counterselected in the tourist zone. In addition, 15.2% of bacterial OTUs and 4.8% of microeukaryotic OTUs were observed only in the tourist zone, whereas 1.6% of bacterial OTUs and 5.7% of microeukaryotic OTUs were found exclusively in the speleologist zone.   
-Conclusion  
+#### Conclusion  
 Overall, anthropization affected microbial diversity, and its effects were of higher significance along the longitudinal than the transversal gradient, and for bacteria than for microeukaryotes.   
 
-  
-Keywords: Aven d’Orgnac; Cave anthropization; Unbalanced microbiota; Metabarcoding
+#### Keywords: Aven d’Orgnac; Cave anthropization; Unbalanced microbiota; Metabarcoding
 
 
 Code used for the Orgnac project.
